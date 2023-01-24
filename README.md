@@ -39,6 +39,7 @@ In this stage we will further select the best model using accuracy obtained for 
 ### Output 
 Output of each model will be the predictions based on gender of each model
 
-*Note : All the observations and inferences obtained are clearly mentioned in the notebook.*
+*Note : All the observations and inferences of each stage are clearly mentioned in the notebook.*
  
 ## Results
+![image](https://user-images.githubusercontent.com/98383338/214234956-8f6b377b-4116-4fee-867b-0cc35df7e86c.png)
