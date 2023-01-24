@@ -36,5 +36,6 @@ The processed data is given as input to the models after spliting into 70% Train
 
 In this stage we will further select the best model using accuracy obtained for each model on the validation dataset(30%). The final model is selected based on accuracy, confusion matrix, classification report so that the suitable model is not biased towards any predictors.
 
-### Output Output of each model will be the predictions based on gender of each model
+### Output 
+Output of each model will be the predictions based on gender of each model
 ## Results
